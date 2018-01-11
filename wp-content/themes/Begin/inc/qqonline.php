@@ -1,0 +1,1 @@
+<div class="qqonline"><a target=blank href=http://wpa.qq.com/msgrd?V=3&uin=<?php echo zm_get_option('qq_id'); ?>&Site=QQ&Menu=yes ><i class="fa fa-qq"></i><span>在</span><span>线</span><span>咨</span><span>询</span></a></div>
